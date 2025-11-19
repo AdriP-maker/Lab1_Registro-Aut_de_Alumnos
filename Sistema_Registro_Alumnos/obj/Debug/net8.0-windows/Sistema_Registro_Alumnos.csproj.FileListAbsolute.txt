@@ -1,0 +1,51 @@
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.exe
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.deps.json
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.runtimeconfig.json
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormRegistroAlumnos.resources
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.GenerateResource.cache
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfoInputs.cache
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfo.cs
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\refint\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.genruntimeconfig.cache
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\ref\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\source\repos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormLogin.resources
+D:\Proyectos visual\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.exe
+D:\Proyectos visual\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.deps.json
+D:\Proyectos visual\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.runtimeconfig.json
+D:\Proyectos visual\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+D:\Proyectos visual\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormLogin.resources
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormRegistroAlumnos.resources
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.GenerateResource.cache
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfoInputs.cache
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfo.cs
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.CoreCompileInputs.cache
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\refint\Sistema_Registro_Alumnos.dll
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.genruntimeconfig.cache
+D:\Proyectos visual\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\ref\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.exe
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.deps.json
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.runtimeconfig.json
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\bin\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormLogin.resources
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.FormRegistroAlumnos.resources
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.GenerateResource.cache
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfoInputs.cache
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.AssemblyInfo.cs
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.csproj.CoreCompileInputs.cache
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\refint\Sistema_Registro_Alumnos.dll
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.pdb
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\Sistema_Registro_Alumnos.genruntimeconfig.cache
+C:\Users\Mipro\Downloads\Sistema_Registro_Alumnos\Sistema_Registro_Alumnos\obj\Debug\net8.0-windows\ref\Sistema_Registro_Alumnos.dll
